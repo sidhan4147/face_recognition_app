@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+face_recognition_env/
+*.jpg
+*.jpeg
+*.png
+output.jpg
+live_capture_*.jpg
